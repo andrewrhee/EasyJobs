@@ -115,6 +115,7 @@ DEPENDENCIES
   haml-rails
   jbuilder (~> 1.2)
   rails (= 4.0.1)
+  sass
   sass-rails (~> 4.0.0)
   sdoc
   sqlite3
